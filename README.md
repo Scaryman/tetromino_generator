@@ -1,6 +1,6 @@
-42 Tetrominos generator.
+# 42 Tetrominos generator.
 
 This programm generates tetrominos for 42-fillit project.
 
-Usage:
+### Usage:
 ./tetromino_generator number_of_tetrominos
