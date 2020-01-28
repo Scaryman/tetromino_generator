@@ -8,7 +8,7 @@
 # define TOP 1
 # define RIGHT 2
 # define DOWN 3
-# define FILLED '='
+# define FILLED '#'
 # define EMPTY '.'
 
 void	generate_tetromino();
